@@ -1,26 +1,13 @@
 {
-    "name": "Lirim Demiri",
-    "description": "Web Design And Programming Project",
-    "short_name": "WebProject",
-    "start_url": "/OnsenUI-Todo-App/index.html",
-    "display": "standalone",
-    "background_color": "white",
-    "theme_color": "#457cdb",
-    "icons": [
-        {
-            "src": "images/icon192",
-            "sizes": "192x192",
-            "type": "image/png"
-        },
-        {
-            "src": "images/icon192",
-            "sizes": "96x96",
-            "type": "image/png"
-        },
-        {
-            "src": "images/icon192",
-            "sizes": "512x512",
-            "type": "image/png"
-        }
-    ]
+  "name": "OnsenUI-Todo-App",
+  "start_url": "/OnsenUI-Todo-App/",
+  "display": "standalone",
+  "background_color": "pink",
+  "icons": [
+    {
+      "src": "images/icon192",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
 }
